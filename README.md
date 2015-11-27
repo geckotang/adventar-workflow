@@ -6,7 +6,7 @@ Adventar Suggest v1.0 for [Alfred 2](http://www.alfredapp.com/)
 
 ## インストール
 
-[Adventar Suggest.alfredworkflow]()をダウンロードし、ダブルクリックするとAlfredに追加されます。
+[Adventar Suggest.alfredworkflow](https://github.com/geckotang/adventar-workflow/releases/download/v1.0.0/Adventar.Suggest.alfredworkflow)をダウンロードし、ダブルクリックするとAlfredに追加されます。
 ※ワークフローを利用するためには、Powerpackが必要です。
 
 ## コマンド
